@@ -16,4 +16,4 @@ This was my first CRUD app done using Express, the NodeJS framework, and the MVC
 
 ## Live app 
 
-You can check it out [here](https://evening-crag-73163.herokuapp.com/catalog).
+You can check it out [here](https://web-production-6405.up.railway.app/catalog).
